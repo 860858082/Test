@@ -5,4 +5,5 @@ public class Test {
     private String name;
     private String address;
     private boolean sex;
+    private int age;
 }
